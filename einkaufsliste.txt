@@ -1,1 +1,6 @@
 # Einkaufsliste
+Äpfel
+Birnen
+Bananen
+Gurken
+Milch
