@@ -1,8 +1,11 @@
 # Lebenslauf
+![Bild](https://avatars3.githubusercontent.com/u/8384904?v=3&s=460)
 
 ## Daten
 **Vorname:** Michael
+
 **Nachname:** Kotzjan
+
 **Wohnort:** Freiburg
 
 ## Schulischer Werdegang
